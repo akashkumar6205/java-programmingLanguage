@@ -1,3 +1,5 @@
+//swaping two no
+
 public class swap{
     public static void swap(int a, int b) {
         int temp = a;

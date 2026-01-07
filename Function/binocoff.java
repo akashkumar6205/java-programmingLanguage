@@ -1,3 +1,5 @@
+//finding binomial cofficient
+
 public class binocoff{
     public static int factorial(int n){
         int f = 1;

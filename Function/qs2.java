@@ -1,3 +1,5 @@
+//find product b/w a nad b a = 3, b = 5
+
 public class qs2{
     public static int multiply(int a, int b){
         int product = a * b;

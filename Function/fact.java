@@ -1,3 +1,5 @@
+//finding factorial
+
 public class fact{
     public static int factorial(int n) {
         int f = 1;

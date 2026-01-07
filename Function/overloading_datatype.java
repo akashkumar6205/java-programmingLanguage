@@ -1,3 +1,5 @@
+//using datatype overloading
+
 public class overloading_datatype{
     public static int sum(int a, int b){
         return a+b;

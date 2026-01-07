@@ -1,3 +1,5 @@
+//check no is prime or not
+
 public class prime{
     // public static boolean isprime(int n) {
     //     // boolean isprime = true;
