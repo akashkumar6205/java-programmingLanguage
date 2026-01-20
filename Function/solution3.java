@@ -22,7 +22,7 @@ public class solution3 {
             reverse = reverse * 10 + remainder;
             palindrome = palindrome / 10;
         }
-         if( number == reverse){
+        if( number == reverse){
             return true;
          }else{
             return false;
