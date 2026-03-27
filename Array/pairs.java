@@ -1,7 +1,7 @@
 
 public class pairs{
     public static void printpair(int numbers[]) {
-        int tp = 0;
+        int tp = 0; //total 
         for(int i=0; i<numbers.length; i++){
             int curr = numbers[i];
             for(int j=i+1; j<numbers.length; j++){
@@ -17,4 +17,4 @@ public class pairs{
 
         printpair(numbers);
     }
-}
+} 
